@@ -1,5 +1,78 @@
 # Changelog
 
+## 4.4.3 (2023-03-11)
+
+- Fix wording of `doc` and `report` commands
+
+### Bug Fixes
+
+## 4.4.2 (2023-03-11)
+
+### Bug Fixes
+
+- Add `ERROR_MESSAGE_DISABLED` environment variable
+- Deprecate `ERROR_TIMEOUT_DISABLED` environment variable
+
+## 4.4.1 (2023-03-10)
+
+### Bug Fixes
+
+- Add default max tokens for chat completion api
+
+## 4.4.0 (2023-03-08)
+
+### New Features
+
+- Support snapshots of `gpt-3.5-turbo` model
+
+## 4.3.0 (2023-03-08)
+
+### New Features
+
+- Add `VERCEL_TEAM_ID` environment variable
+
+## 4.2.2 (2023-03-08)
+
+### Bug Fixes
+
+- Optimize error handling
+
+## 4.2.1 (2023-03-07)
+
+### Bug Fixes
+
+- Fix `add-mark` util
+
+## 4.2.0 (2023-03-05)
+
+### New Features
+
+- Add `APP_INIT_PROMPT` environment variable
+
+## 4.1.3 (2023-03-05)
+
+### Bug Fixes
+
+- Fix `add-mark` util
+
+## 4.1.2 (2023-03-05)
+
+### Bug Fixes
+
+- Update `add-mark` util
+
+## 4.1.1 (2023-03-05)
+
+### Bug Fixes
+
+- End text with dot
+
+## 4.1.0 (2023-03-05)
+
+- Support `whisper-1` model
+- Add `opencc` text converter
+- Store display name and group name to storage
+
 ## 4.0.4 (2023-03-03)
 
 ### Bug Fixes
