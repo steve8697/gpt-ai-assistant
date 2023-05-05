@@ -1,10 +1,29 @@
 # Changelog
 
-## 4.4.3 (2023-03-11)
+## 4.6.0 (2023-05-03)
 
-- Fix wording of `doc` and `report` commands
+### New Features
+
+- Support `gpt-4` model
+
+## 4.5.0 (2023-04-27)
+
+### New Features
+
+- Support `zh_CN` locale
+
+## 4.4.4 (2023-03-21)
 
 ### Bug Fixes
+
+- Fix default value of `APP_MAX_GROUPS` environment variable
+- Fix default value of `APP_MAX_USERS` environment variable
+
+## 4.4.3 (2023-03-11)
+
+### Bug Fixes
+
+- Fix wording of `doc` and `report` commands
 
 ## 4.4.2 (2023-03-11)
 
